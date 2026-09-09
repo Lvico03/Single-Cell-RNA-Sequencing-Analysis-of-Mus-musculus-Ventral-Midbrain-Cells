@@ -69,7 +69,8 @@ annotations.
 
 - `script` — sc_rna_sequencing_script 
 - `plots/` — output plots (QC, PCA, clustering, marker expression, final UMAP)
-- `README.md` — this file
+- `README.md` — ReadMe
+- `SRA670243_SRS3078084.sparse.RData` — Data
 
 ## Author
 
