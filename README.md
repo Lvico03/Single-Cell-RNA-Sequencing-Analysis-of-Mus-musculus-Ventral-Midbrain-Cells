@@ -59,7 +59,7 @@ annotations.
   population affected in Parkinson's disease — were identified.
 - No cluster was driven by technical bias (mitochondrial / ribosomal /
   cell-cycle).
-  <img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/ced4ea22-8f94-405c-a7fb-56ce5396f1a5" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/ced4ea22-8f94-405c-a7fb-56ce5396f1a5" />
 
 
 ## Tools
